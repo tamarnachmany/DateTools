@@ -4,7 +4,7 @@ DateTools: The Breakup is a fork of DateTools, which divides its powerhouse cate
 
 The original Date Tools has about 107 methods in its DateTools category. Because they are all grouped together, they are all imported into a class in one line of code. The Breakup divides these methods among several classes according to their purpose, making the codebase easier to understand and use.
 
-The methods used by these classes have been taken directly from Date Tools, so all the functionalities of the original CocoaPod have been preserved. For information on what Date Tools can do, visit the [DateTime] (https://github.com/MatthewYork/DateTools) .aspx).  
+The methods used by these classes have been taken directly from Date Tools, so all the functionalities of the original CocoaPod have been preserved. For information on what Date Tools can do, visit the [DateTime] (https://github.com/MatthewYork/DateTools).  
 
 ## Installation
 
